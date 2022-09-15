@@ -1,0 +1,123 @@
+{
+    "class": "Desingning for web",
+    "charper": "Fundamentals of Web Desing",
+    "trainer": [
+        {
+            "name": "Natalie Storm, Desing Department ",
+            "departament": "Desing Department",
+            "info": "Natalia is freelance designer who occasssionally dabbles along with graphic desing, motion and code."
+        }
+    ],
+    "classroomVideo": [
+        {
+            "className" : "What is Interaction Desing",
+            "videoUrl" : "",
+            "discussion" : [
+                {
+                    "type": "TEXT",
+                    "data" : "Este video esta super bueno",
+                    "user" : {
+                        "urlProfilePicture" : "url...",
+                        "name": "Fernando Pineda"
+                    }
+                },
+                {
+                    "type": "AUDIO",
+                    "audioUrl" : "audio url...",
+                    "user" : {
+                        "urlProfilePicture" : "url...",
+                        "name": "Fernando Pineda"
+                    }
+                }
+            ]
+        },
+        {
+            "className" : "Motion in UI Desing",
+            "videoUrl" : "",
+            "discussion" : [
+                {
+                    "type": "TEXT",
+                    "data" : "Este video esta super bueno",
+                    "user" : {
+                        "urlProfilePicture" : "url...",
+                        "name": "Fernando Pineda"
+                    }
+                },
+                {
+                    "type": "AUDIO",
+                    "audioUrl" : "audio url...",
+                    "user" : {
+                        "urlProfilePicture" : "url...",
+                        "name": "Fernando Pineda"
+                    }
+                }
+            ]
+        },
+        {
+            "className" : "Funmentals of Web Design",
+            "videoUrl" : "",
+            "discussion" : [
+                {
+                    "type": "TEXT",
+                    "data" : "Este video esta super bueno",
+                    "user" : {
+                        "urlProfilePicture" : "url...",
+                        "name": "Fernando Pineda"
+                    }
+                },
+                {
+                    "type": "AUDIO",
+                    "audioUrl" : "audio url...",
+                    "user" : {
+                        "urlProfilePicture" : "url...",
+                        "name": "Fernando Pineda"
+                    }
+                }
+            ]
+        },
+        {
+            "className" :"Improving Visual Skills",
+            "videoUrl" : "",
+            "discussion" : [
+                {
+                    "type": "TEXT",
+                    "data" : "Este video esta super bueno",
+                    "user" : {
+                        "urlProfilePicture" : "url...",
+                        "name": "Fernando Pineda"
+                    }
+                },
+                {
+                    "type": "AUDIO",
+                    "audioUrl" : "audio url...",
+                    "user" : {
+                        "urlProfilePicture" : "url...",
+                        "name": "Fernando Pineda"
+                    }
+                }
+            ]
+        },
+        {
+            "className" :"Finding inspiration",
+            "videoUrl" : "",
+            "discussion" : [
+                {
+                    "type": "TEXT",
+                    "data" : "Este video esta super bueno",
+                    "user" : {
+                        "urlProfilePicture" : "url...",
+                        "name": "Fernando Pineda"
+                    }
+                },
+                {
+                    "type": "AUDIO",
+                    "audioUrl" : "audio url...",
+                    "user" : {
+                        "urlProfilePicture" : "url...",
+                        "name": "Fernando Pineda"
+                    }
+                }
+            ]
+        }
+    ]
+}

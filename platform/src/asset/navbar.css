@@ -1,0 +1,17 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 9997;
+    transition: all 0.5s;
+    row-gap: 2rem;
+    padding: 4rem 2rem 1rem;
+    overflow-y: auto;
+    background:#22272e;
+    
+}
+.nav-icon{
+    color: #768390;
+   
+}
