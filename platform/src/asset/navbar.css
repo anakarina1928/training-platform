@@ -5,7 +5,7 @@
     bottom: 0;
     z-index: 9997;
     transition: all 0.5s;
-    row-gap: 2rem;
+    row-gap: 3rem;
     padding: 4rem 2rem 1rem;
     overflow-y: auto;
     background:#22272e;
@@ -13,5 +13,11 @@
 }
 .nav-icon{
     color: #768390;
+    ;
    
+}
+
+.logo{
+    height: 30px;
+  
 }
