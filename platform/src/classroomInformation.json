@@ -1,17 +1,18 @@
 {
     "class": "Desingning for web",
-    "charper": "Fundamentals of Web Desing",
-    "trainer": [
+    "trainer": 
         {
-            "name": "Natalie Storm, Desing Department ",
+            "name": "Natalie Storm",
             "departament": "Desing Department",
             "info": "Natalia is freelance designer who occasssionally dabbles along with graphic desing, motion and code."
         }
-    ],
+    ,
     "classroomVideo": [
         {
             "className" : "What is Interaction Desing",
             "videoUrl" : "",
+            "completed": false,
+            "started": false,
             "discussion" : [
                 {
                     "type": "TEXT",

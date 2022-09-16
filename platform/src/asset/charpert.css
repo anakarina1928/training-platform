@@ -1,0 +1,7 @@
+.borderBack{
+    border-radius: 22px 0px 0px 22px;
+
+}
+.borderForward{
+    border-radius: 0px 22px 22px 0px;
+}
